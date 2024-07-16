@@ -19,6 +19,10 @@ Welcome to the C++ Tetris Game repository! This project showcases a classic Tetr
 - **Input Handling**: Smooth and responsive controls for an enjoyable gaming experience.
 - **Open Source**: Well-structured and readable code for educational purposes.
 
+  ## Screenshot
+
+![Screenshot](preview.jpg)
+
 ## Installation
 
 To get started with the C++ Tetris game, follow these steps:
